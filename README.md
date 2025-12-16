@@ -11,7 +11,7 @@
 - 🔭 Currently building **next-level tools** for education, loyalty, events and themed digital experiences.
 - 🎯 Obsessed with clean UI, animations, smooth transitions and everything that feels premium.
 - 💼 I create complete systems — not just websites — including authentication, dashboards, mobile-first design and Firebase integrations.
-- 🌱 Exploring **.NET MAUI**, **custom OS builds**, **AI-powered education**, and **interactive Roblox systems**.
+- 🌱 Exploring **.NET MAUI**, **custom OS builds** and **AI-powered education**.
 
 ---
 
